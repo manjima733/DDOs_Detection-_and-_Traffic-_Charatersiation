@@ -1,4 +1,4 @@
-# Cloud_Based_DDOs_Detection-_and-_Traffic-_Charatersiation
+# Cloud Based DDOs Detection and Traffic Charatersiation
 This project implements a machine learning-based system to detect Distributed Denial of Service (DDoS) attacks and characterize network traffic patterns in a cloud environment. The pipeline includes data preprocessing, feature selection, model training, performance evaluation, and visualization, with a focus on resource efficiency.
 
 Objective
